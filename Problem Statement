@@ -2,9 +2,11 @@ Topic: Student Performance Prediction System
 
 1. Identify the AI/ML Type
 
-Student Performance Prediction is an Artificial Intelligence (AI) and Machine Learning (ML) based project. The system uses historical student data to learn the relationship between different factors and academic performance.
+Student Performance Prediction is an Artificial Intelligence (AI) and Machine Learning (ML) based project. The system uses historical student data to 
+learn the relationship between different factors and academic performance.
 
-The project mainly comes under Supervised Machine Learning, because the model is trained using a dataset in which the input information and the actual student performance/output are already known.
+The project mainly comes under Supervised Machine Learning, because the model is trained using a dataset in which the input information and the actual 
+student performance/output are already known.
 
 For example, the dataset may contain:
 
