@@ -29,27 +29,13 @@ The exact ML problem depends on what we want the system to predict.
 
 Regression: If the system predicts an exact numerical score or percentage, it is a Regression problem.
 
-Example:
-
-Input: Attendance, study hours, previous marks, assignment marks
-Output: Predicted final mark = 78/100
-
 Algorithms that can be used include:
 
 Linear Regression
 Decision Tree Regression
 Random Forest Regression
 
-Classification: If the system predicts a performance category, it becomes a classification problem.
-
-Example:
-
-Input: Attendance, previous marks, study hours
-Output: Excellent / Good / Average / Poor
-
-Or:
-
-Output: Pass / Fail
+Classification: If the system predicts a performance category, it becomes a classification problem
 
 Algorithms that can be used include:
 
@@ -59,22 +45,23 @@ Random Forest
 Support Vector Machine (SVM)
 K-Nearest Neighbors (KNN)
 
+3. Workflow Model
 
-3. Objective of the Project
-
-The main objective of the Student Performance Prediction project is to develop an intelligent machine learning system that can analyze various academic and 
-behavioral factors of students and predict their future academic performance.
-
-The system aims to identify the factors that have a significant impact on student performance and use these factors to make accurate predictions. 
-By analyzing historical student data, the model can recognize patterns and relationships between attendance, previous academic scores, study habits, 
-assignment performance, class participation, and other relevant factors.
-
-Another important objective is to identify students who are likely to perform poorly at an early stage. Instead of waiting until the final examination results, 
-teachers and institutions can use the prediction results to recognize students who may require additional academic support.
-
-The system can help teachers understand individual student performance and provide personalized guidance. For example, if a student has low attendance and 
-poor assignment performance, the system may predict a higher risk of poor academic performance. Teachers can then provide additional classes, study materials, 
-mentoring, or other appropriate support.
+Data Collection
+↓
+Data Preprocessing
+↓
+Feature Selection
+↓
+Train & Test Data
+↓
+Model Training
+↓
+ML Model
+↓
+Performance Prediction
+↓
+Model Evaluation
 
 4. Specific Objectives
 
