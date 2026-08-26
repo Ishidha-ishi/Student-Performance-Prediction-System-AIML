@@ -1,0 +1,339 @@
+Name,Student_ID,Gender,Department,Year,Previous_Backlogs,Student_Attendance_Percentage,Previous_Semester_Marks,Internal_Assessment_Marks,Assignment_Scores,Study_Hours_Per_Day,Class_Participation_Percentage,Completed_Assignments,Previous_Exam_Performance,Learning_Activities_Score,Socio_Academic_Factors_Score,Final_Performance_Percentage,Performance_Category
+Nirajana,STU1158,Female,Computer Science,3rd Year,0,97.53,87.48,78.98,85.73,0.5,75.16,10,76.33,1,83.97,81.93,Good
+Suba,STU1281,Female,Computer Science,3rd Year,0,73.17,,87.21,78.73,1.15,27.14,10,100,3,75.07,78.12,Good
+Vijay,STU1139,Female,Civil,1st Year,1,86.09,61.74,59.07,60.46,2.77,40.86,10,60.23,2,74.76,66.68,Average
+Priya,STU1221,Female,Information Technology,1st Year,2,60.2,60.9,47.85,46.92,1.98,49.99,8,64.94,4,74.7,62.56,Pass
+Kavya,STU1008,Male,Mechanical,3rd Year,0,58.85,68.96,51.77,62.56,1.36,48.88,10,73.24,3,60.29,57.57,Pass
+Divya,STU1170,Female,Mechanical,4th Year,0,92.03,73.55,82.2,73.26,4.13,68.64,10,,4,81.1,85.4,Excellent
+Harini,STU1108,Male,Information Technology,4th Year,0,100,71.99,71.18,67.05,2.34,69.1,10,65.68,4,78.01,71.36,Average
+Keerthana,STU1077,Male,ECE,1st Year,1,76.03,65.45,58.82,50.47,0.5,36.66,10,70.7,2,63.13,54.97,Pass
+Nandhini,STU1198,Female,Mechanical,4th Year,0,87.99,67.04,59.61,66.83,4.93,68.24,10,60.44,3,62.29,64.64,Pass
+Swetha,STU1075,Female,Information Technology,1st Year,0,80.2,75.15,68.22,84.83,2.52,71.09,10,66.62,4,81.18,75.95,Good
+Aishwarya,STU1106,Male,Information Technology,1st Year,1,85.89,65.91,59.11,78.08,6.19,76.69,10,65.24,5,59.34,73.85,Average
+Pavithra,STU1211,Male,Artificial Intelligence,4th Year,1,85.65,60.67,61.64,64.01,4.51,54.97,10,65.91,5,81.91,64.74,Pass
+Dharani,STU1240,Female,Computer Science,1st Year,0,91.2,68.03,70.63,76.45,2.95,55.4,10,69.75,5,77.53,68.87,Average
+Sangeetha,STU1184,Male,EEE,3rd Year,2,74.18,53.25,49.3,,6.15,62.91,9,46.19,5,54.88,58.06,Pass
+Anitha,STU1173,Male,ECE,4th Year,1,94.17,71.28,84.83,87.45,6.25,55.79,10,79.59,7,89.38,83.01,Good
+Deepika,STU1226,Female,Information Technology,3rd Year,0,63.58,73.54,63.47,64.25,0.65,50.35,10,65.2,3,62.62,57.43,Pass
+Monisha,STU1095,Female,ECE,1st Year,0,80.16,67.43,66.11,60.17,6.52,86.84,10,81.16,7,82.19,69.51,Average
+Sandhya,STU1242,Male,Civil,3rd Year,0,91.88,72.86,69.04,75.27,4.41,61.31,10,67.87,5,69.97,79.41,Good
+Abinaya,STU1185,Female,ECE,3rd Year,0,100,80.82,72.27,100,1.15,51.19,10,69.93,3,76.9,75.27,Good
+Shalini,STU1141,Male,EEE,1st Year,0,82.62,81.52,74.89,77.01,3.7,70.53,10,82.76,6,84.04,78.36,Good
+Ramya,STU1127,Male,Mechanical,1st Year,0,80.18,78.23,67.77,69.42,2.17,68.66,10,81.34,3,86.72,62.71,Pass
+Vaishnavi,STU1236,Male,Civil,3rd Year,1,83.47,54.6,72.08,71.56,3.59,61.18,10,79.33,6,73.32,68.33,Average
+Lavanya,STU1062,Female,Information Technology,3rd Year,1,72.67,57.16,58.31,58.92,5.2,64.09,10,69.91,6,66.05,58.44,Pass
+Dhivya,STU1024,Female,Mechanical,4th Year,0,98.1,90.6,,72.05,1.49,67.94,10,95.36,6,93.43,71.58,Average
+Meena,STU1288,Male,Computer Science,4th Year,2,64.55,40.21,49.39,60.69,5.95,88.1,10,53.01,8,70.29,60.07,Pass
+Mahalakshmi,STU1273,Female,ECE,1st Year,0,53.24,57.78,41.31,60.8,2.69,43.21,8,63.5,3,50.02,50.9,Pass
+Sowmya,STU1039,Male,Mechanical,1st Year,1,79.76,76.36,77.65,77.77,5.67,68.09,10,82.77,7,79.25,84.99,Good
+Sneha,STU1290,Female,Mechanical,2nd Year,1,74.48,65.34,74.42,71.43,3.44,76.72,10,62.77,5,68.26,71.05,Average
+Srinithi,STU1287,Female,,1st Year,0,74.86,58.91,66.25,62.59,3.85,82.3,10,70.51,5,73.85,74.84,Average
+Janani,STU1224,Female,Computer Science,2nd Year,0,78.55,73.17,65.35,63.69,7.11,62.57,10,61.14,7,84.36,64.36,Pass
+Karthika,STU1126,Female,Computer Science,2nd Year,0,87.64,75.59,72.92,84.85,1.73,62.56,10,88.6,4,74.56,72.4,Average
+Anjali,STU1231,Female,ECE,3rd Year,1,89.29,66.19,64.21,72.06,0.5,51.7,10,55.89,3,70.11,62.8,Pass
+Gayathri,STU1007,Female,Civil,1st Year,2,68.04,64.54,52.59,49.65,5.31,58.52,9,51.08,5,77.16,53.81,Pass
+Reshma,STU1091,Female,Computer Science,1st Year,0,98.52,73.25,87.86,91.26,4.56,77.75,10,74.26,6,73.92,78.75,Good
+Varshini,STU1041,Female,EEE,4th Year,0,77.88,63.47,70.12,86.13,2.16,54.82,10,71.02,6,68.19,74.27,Average
+Nivetha,STU1135,Female,EEE,3rd Year,0,79.56,75.21,75.95,56.6,4.57,58.17,8,71.55,2,69.05,60.2,Pass
+Swathi,STU1132,Female,Mechanical,1st Year,1,77.06,71.07,62.47,73.11,2.69,73.9,10,69.02,5,67.09,65.88,Average
+Pooja,STU1101,Female,Artificial Intelligence,2nd Year,1,81.84,70.31,53.53,63.72,2.29,36.86,10,81.83,1,67.64,71.4,Average
+Shreya,STU1103,Male,Artificial Intelligence,3rd Year,0,77.17,74.34,71.64,81.25,2.09,61.48,10,81.43,5,78.23,74.46,Average
+Akshaya,STU1025,Male,Artificial Intelligence,1st Year,0,78.67,85.17,84.29,79.73,2.94,45.8,10,,7,82.59,71.41,Average
+Yamuna,STU1025,Male,Artificial Intelligence,1st Year,0,78.67,85.17,84.29,79.73,2.94,45.8,10,,7,82.59,71.41,Average
+Rithika,STU1045,Male,Artificial Intelligence,4th Year,0,89.28,75.45,57.69,73.45,0.95,45.36,10,70.28,2,66.51,65.77,Average
+Bhavya,STU1006,,ECE,4th Year,0,81.58,70.92,62.26,63.71,3.43,66,10,68.82,5,63.69,57.76,Pass
+Mithra,STU1169,Male,ECE,2nd Year,0,87.72,79.57,77.93,82.11,4.08,68.89,10,73.88,7,88.81,83.99,Good
+Sindhu,STU1277,Male,Artificial Intelligence,3rd Year,0,99.3,94.77,90.75,85.62,2.43,68.77,10,71.96,5,72.84,81.02,Good
+Tharani,STU1271,Male,Computer Science,1st Year,1,74.34,75.34,,68.61,7.04,73.33,10,77.59,7,80.92,78.74,Good
+Roshini,STU1144,Male,EEE,1st Year,3,67.9,47.71,41.89,61.26,4.07,69.57,10,55.78,4,73.79,51.65,Pass
+Nithya,STU1043,Female,Computer Science,2nd Year,0,95.72,81.26,68.69,77.14,4.11,73.56,10,80.26,7,86.77,79.69,Good
+Kowsalya,STU1228,Male,ECE,4th Year,0,81.15,69.81,73.78,68.99,3.8,51.43,10,68.28,5,65.6,77.77,Good
+Vignesh,STU1234,Female,Artificial Intelligence,2nd Year,0,88.1,55.45,61.82,66.44,5.5,69.21,10,59.88,4,72.36,68.55,Average
+Sanjay,STU1145,Female,Civil,3rd Year,2,79.62,44.62,52.6,67.43,1.48,49.31,10,52.35,4,63.91,58.25,Pass
+Arun,STU1237,Male,Information Technology,1st Year,0,89.59,72.78,72.14,75.55,1.73,54.92,10,67.97,3,78.15,71.38,Average
+Karthik,STU1019,Male,Civil,2nd Year,0,100,72.96,69.76,70.97,5.6,63.15,10,62.37,4,77.76,79.4,Good
+Dinesh,STU1122,Female,ECE,3rd Year,1,94.69,69.82,63.47,77.48,3.27,85.7,10,73.66,3,86.97,75.65,Good
+Praveen,STU1286,Female,Information Technology,1st Year,1,66.85,57.31,65.28,60.94,0.5,57,10,60.75,3,71.27,53.1,Pass
+Suresh,STU1255,Female,ECE,1st Year,0,69.77,78.45,66.93,63.22,4.63,48.62,8,76.44,5,69.61,57.4,Pass
+Rakesh,STU1088,Male,Information Technology,2nd Year,0,100,76.81,74.35,81.77,2.94,62.18,10,82.46,1,91.83,85.49,Excellent
+Rahul,STU1197,Other,Information Technology,1st Year,0,91.17,63.13,65.52,72.74,1.94,47.27,10,47.52,4,67.53,68.18,Average
+Aravind,STU1231,Female,ECE,3rd Year,1,89.29,66.19,64.21,72.06,0.5,51.7,10,55.89,3,70.11,62.8,Pass
+Ashwin,STU1247,Female,Mechanical,1st Year,0,91.01,69.38,83.16,94.42,2.05,48.88,10,60.92,5,63.55,73.32,Average
+Hari,STU1262,Male,Computer Science,3rd Year,2,77.4,46.57,63.65,58.95,3.62,56.24,10,50.35,6,70.97,60.63,Pass
+Gokul,STU1159,Male,Computer Science,2nd Year,3,59.85,40.64,50.43,54.54,8.49,67.34,10,53.76,6,53.06,56.62,Pass
+Mohan,STU1116,Male,EEE,4th Year,0,72.21,76.47,70.8,46.68,3.7,77.6,9,98.18,6,88.54,66.28,Average
+Manoj,STU1298,Female,EEE,2nd Year,0,75.85,67.89,,69.88,1.54,36.76,10,71,5,72.66,64.29,Pass
+Vishnu,STU1269,Female,Artificial Intelligence,4th Year,0,,83.48,,51.25,1.16,51.95,7,86.62,1,65.4,66.17,Average
+Surya,STU1245,Male,EEE,3rd Year,2,64.81,58.34,56.58,68.63,6.88,62.23,10,61.44,5,59.18,64.66,Pass
+Ajay,STU1157,Female,Computer Science,4th Year,0,96.76,93.92,86.53,84.48,2.19,64.79,10,97.29,4,75.61,83.23,Good
+Akash,STU1209,Male,EEE,2nd Year,0,,78.47,65.36,65.12,5.21,76.03,10,73.4,7,76.85,65.25,Average
+Bharath,STU1190,Male,Civil,4th Year,0,93.9,73.78,82.43,76.63,2.36,79.07,10,60.61,4,73.39,77.65,Good
+Deepak,STU1201,Male,Computer Science,3rd Year,1,93.67,69.5,75.05,78.71,5.83,71.64,10,62.54,6,79.85,76.66,Good
+Naveen,STU1177,Female,Civil,4th Year,0,74.46,79.53,69.91,66.04,2.42,45.41,10,88.98,4,64.59,62.48,Pass
+Sathish,STU1174,Female,Artificial Intelligence,1st Year,1,68.38,49.98,53.99,57.93,4.2,62.86,10,69.89,6,73.89,57.99,Pass
+Saravanan,STU1280,Female,Computer Science,3rd Year,1,76,81.66,67.24,77.7,4.41,56.86,10,72.2,4,73.46,71.23,Average
+Lokesh,STU1238,Male,ECE,1st Year,1,88.11,57.42,57.49,74.05,3.6,68.48,10,73.84,2,67.79,64.21,Pass
+Rohit,STU1089,Female,Civil,2nd Year,0,,85.99,73.82,72.01,2.54,81.65,10,70.21,4,94.13,77.23,Good
+Vivek,STU1046,Female,Information Technology,4th Year,0,98.07,85.05,88.91,88.46,3.54,86.38,10,96.04,7,100,88.16,Excellent
+Dharun,STU1244,Female,EEE,2nd Year,1,66.11,63.37,69.22,62.87,4.71,59.67,10,61.04,3,68.82,54.1,Pass
+Yashwanth,STU1063,Male,Computer Science,2nd Year,2,82.2,64.43,66.2,70.6,2.38,38.77,10,59.18,4,75.02,60.28,Pass
+Adithya,STU1057,Female,Information Technology,1st Year,1,88.98,,60.65,64.02,1.29,57.95,10,58.78,4,74.29,60.43,Pass
+Abhishek,STU1065,Male,,3rd Year,1,68.31,68.01,59.92,69.21,1.92,43.81,10,62.71,4,66.12,57.03,Pass
+Siddharth,STU1134,Female,Computer Science,2nd Year,0,92.19,71.23,77.15,89.2,3.07,78.26,10,81.83,4,78.92,87.41,Excellent
+Varun,STU1181,Male,Information Technology,4th Year,0,100,,75.52,65.06,1.22,71.09,10,84.86,5,92.94,71.66,Average
+Kishore,STU1199,Female,EEE,2nd Year,2,72.54,63.54,61.99,63.3,4.71,49.29,10,54.37,7,59.71,71.22,Average
+Pranav,STU1254,Male,Computer Science,1st Year,0,92.56,84.24,78.05,75.74,0.5,51.77,10,72.15,3,83.89,75.05,Good
+Ranjith,STU1047,Male,Artificial Intelligence,3rd Year,2,67.72,70.58,61.35,60.36,3.38,62.74,10,70.69,4,65.22,62.85,Pass
+Santhosh,STU1223,Male,ECE,1st Year,2,75.83,40.8,44.42,53.3,3.5,72.07,10,40.34,4,65.86,49.94,Fail
+Muthukumar,STU1268,Male,Mechanical,1st Year,0,91.92,81.78,83.44,62.67,,67.12,10,88.31,6,69.15,80.3,Good
+Kavin,STU1225,Female,Computer Science,3rd Year,0,78.21,82.31,77.44,63.87,2.23,67.75,10,71.13,1,76.11,70.28,Average
+Gowtham,STU1204,Female,Civil,3rd Year,0,73.33,79.78,62.5,59.5,3.63,56.28,10,68.52,3,54.92,65.39,Average
+Jeevan,STU1054,Male,Mechanical,3rd Year,0,84.89,70.89,63.29,62.86,4.53,53.34,10,85.33,3,82.02,72.08,Average
+Karthikeyan,STU1081,Female,Civil,4th Year,0,76.66,79.76,69.28,80.09,,65.9,10,65.75,3,75.44,64.59,Pass
+Naveena,STU1072,Male,ECE,4th Year,0,79.38,68.14,60.54,69.87,5.69,71.39,10,58.27,5,72.32,70.7,Average
+Aarthi,STU1038,Male,EEE,4th Year,0,77.17,73.81,68.15,69.29,2.47,51.72,10,73.66,4,54.81,57.13,Pass
+Anu,STU1013,Male,Information Technology,1st Year,4,54,35.01,55.69,53.07,,55.1,9,37.79,3,47.52,50.81,Pass
+Bhavana,STU1207,Female,Information Technology,4th Year,0,81.68,78.15,89.55,81.54,4.55,67.44,10,88.45,5,81.08,71.54,Average
+Chandrika,STU1178,Male,ECE,2nd Year,0,79.79,75.2,68.64,66.06,3.91,65.39,10,74.46,3,62.76,69.28,Average
+Dharshika,STU1005,Male,ECE,2nd Year,0,95.4,77.93,88.68,76.93,3.33,73.89,10,89.88,5,86.84,77.29,Good
+Ishwarya,STU1282,Male,ECE,3rd Year,1,56.59,,53.71,66.24,2.88,62.75,9,54.56,3,55.58,59.37,Pass
+Madhumitha,STU1100,Male,Computer Science,4th Year,0,63.49,67.19,62.59,51.55,3.63,71.84,9,66.03,5,58.23,64.48,Pass
+Nandita,STU1166,Female,ECE,3rd Year,0,73.52,62.48,52.51,68.59,2.48,40.25,10,74.16,6,55.62,66.94,Average
+Preethi,STU1066,Male,Civil,2nd Year,2,71.68,65.88,71.8,62.27,1.47,46.21,10,62.92,3,62.83,56.08,Pass
+Ranjani,STU1056,Male,Computer Science,4th Year,0,84.12,63.32,72.26,73.29,0.5,43.03,10,66.16,4,69.35,66.51,Average
+Revathi,STU1002,Male,Artificial Intelligence,3rd Year,1,61.29,59.24,57.82,69.65,3.95,72.9,10,,4,73.65,68.71,Average
+Sakthi,STU1187,Female,Computer Science,1st Year,0,61.2,69.49,56.51,57.3,3.58,74.8,10,83.48,4,74.79,67.4,Average
+Sharmila,STU1115,Male,Civil,1st Year,0,70.73,61.99,61.31,61.88,4.31,54.54,9,65.05,4,61.52,58.92,Pass
+Soundarya,STU1092,Female,Computer Science,2nd Year,0,70.53,56.66,47.7,61.25,3.15,76.84,10,59.78,6,71.84,67.72,Average
+Thenmozhi,STU1239,Other,Artificial Intelligence,3rd Year,1,65.36,63.56,75.05,65.14,,53.91,10,79.14,4,62.48,70.9,Average
+Usha,STU1129,Male,Artificial Intelligence,4th Year,0,76.1,86.46,67.61,41.72,5.96,60.86,10,72.76,5,90.96,75.52,Good
+Vani,STU1235,Male,Information Technology,1st Year,1,,62.67,79.17,76.57,3.07,59.51,10,69.11,4,68.88,66.36,Average
+Yogitha,STU1062,Female,Information Technology,3rd Year,1,72.67,57.16,58.31,58.92,5.2,64.09,10,69.91,6,66.05,58.44,Pass
+Jayanivethini,STU1293,Female,Mechanical,4th Year,0,82.85,71.47,68.63,75.48,2.69,58.47,10,57.59,3,77.15,72.95,Average
+Jayanti,STU1027,Male,Civil,3rd Year,0,73.66,59.65,65.91,52.99,3.19,61.34,9,73.24,3,78.66,64.83,Pass
+Vijay,STU1051,Male,Artificial Intelligence,3rd Year,0,72.26,86.98,63.14,53.87,3.74,64.68,8,80.29,5,81.21,74.42,Average
+Priya,STU1079,Female,Information Technology,1st Year,0,75.73,82.24,65.74,72.43,2.5,55.18,10,75.97,6,67.01,71.47,Average
+Kavya,STU1110,Male,Computer Science,2nd Year,0,90.29,71.17,72.46,73.52,,72.23,10,58.68,7,83.4,75.93,Good
+Divya,STU1151,Male,Artificial Intelligence,3rd Year,0,87.2,66.44,79.1,87.49,3.34,57.49,10,83.34,5,79.89,65.65,Average
+Harini,STU1242,Male,Civil,3rd Year,0,91.88,72.86,69.04,75.27,4.41,61.31,10,67.87,5,69.97,79.41,Good
+Keerthana,STU1175,Female,Mechanical,4th Year,0,98.81,80.61,77.51,71.32,2.73,62.24,10,81.77,5,72.59,71,Average
+Nandhini,STU1049,,ECE,2nd Year,1,81.02,59.27,62.72,76.6,0.66,50.98,10,50.99,3,68.08,61.3,Pass
+Swetha,STU1171,Female,EEE,3rd Year,0,70.33,76.32,61.9,42.31,1.9,54.24,10,76.72,4,64.09,69.23,Average
+Aishwarya,STU1263,Other,EEE,1st Year,0,75.55,67.18,77.42,70.64,4.37,50.43,10,78.26,5,85.85,65.08,Average
+Pavithra,STU1194,Male,Computer Science,2nd Year,2,70.51,47.12,43.06,64.94,1.63,49.57,10,48.22,4,71.19,56.25,Pass
+Dharani,STU1296,Female,Computer Science,1st Year,0,71.42,76.12,55.1,67.44,2.86,73.74,10,66.4,2,67.1,74.99,Average
+Sangeetha,STU1150,Female,Information Technology,4th Year,2,85.32,54.21,68.5,63.85,3.72,77,10,69.55,4,72.54,63.28,Pass
+Anitha,STU1120,,Mechanical,3rd Year,2,82.31,71.1,67.82,90.8,3.21,70.36,10,62.98,7,68.17,68.1,Average
+Deepika,STU1192,Male,Artificial Intelligence,1st Year,2,90.25,72.58,56.86,79.82,7.62,64.97,10,70.11,5,74,80.61,Good
+Monisha,STU1082,Male,Information Technology,4th Year,0,86.67,58.02,63.19,76.51,4.25,72.14,10,66.15,5,82.22,69.22,Average
+Sandhya,STU1256,Female,Information Technology,3rd Year,0,99.88,98,66.43,81.19,1.06,77.51,10,85.35,4,94.36,80.76,Good
+Abinaya,STU1257,Male,Civil,1st Year,1,87.2,67.14,68.4,73.17,4.32,68.38,10,66.68,8,85.57,66.4,Average
+Shalini,STU1053,Male,Computer Science,4th Year,1,51.46,66.01,69.76,67.24,3.29,31.06,10,76.33,2,60.54,58.07,Pass
+Ramya,STU1176,Male,Computer Science,4th Year,0,100,75.08,79.94,79.07,4.32,68.12,10,78.7,4,97.6,77.24,Good
+Vaishnavi,STU1055,Male,Computer Science,2nd Year,2,40,35.11,59.23,69.1,6.17,34.84,10,41.49,6,42.73,56.09,Pass
+Lavanya,STU1035,Female,Civil,4th Year,0,92.17,79.27,50.95,61.36,3.22,68.21,10,87.58,3,95.84,68.01,Average
+Dhivya,STU1205,Male,Computer Science,4th Year,0,73.89,62.69,49.37,56.02,6.33,62.92,10,52.88,3,71.5,59.11,Pass
+Meena,STU1111,Male,Artificial Intelligence,1st Year,0,71.09,80.34,67.51,80.56,5.99,72.19,10,75.62,8,68.4,82.19,Good
+Mahalakshmi,STU1259,,Mechanical,4th Year,0,87.58,80.54,73.17,58.89,3.87,76.48,10,73.65,7,63.3,75.16,Good
+Sowmya,STU1291,Male,Mechanical,2nd Year,0,82.08,66.4,66.92,53.94,1.79,54.01,10,63.84,4,74.41,59.01,Pass
+Sneha,STU1156,Female,Information Technology,3rd Year,0,81.5,65.24,64.48,58.51,5.76,57.83,10,78.72,5,66.64,70.83,Average
+Srinithi,STU1274,Male,Computer Science,4th Year,2,61.83,65.13,68.6,76.13,5.09,72.28,10,74.13,5,63.48,64.09,Pass
+Janani,STU1276,Female,ECE,4th Year,0,94.4,66.24,62.59,64.74,4.92,80.9,10,73.57,6,97.34,72.62,Average
+Karthika,STU1040,Male,ECE,3rd Year,2,72.8,57.5,69.22,60.26,3.69,54.22,10,66.18,5,69.9,64.04,Pass
+Anjali,STU1200,,EEE,1st Year,1,88.85,,76.55,87.02,2.71,66.57,10,90.9,2,65.03,76.83,Good
+Gayathri,STU1016,Female,Information Technology,4th Year,0,80.66,74.73,,80.07,2.05,67.74,10,90.63,4,71.26,72.7,Average
+Reshma,STU1104,Male,Information Technology,4th Year,1,61.65,73.04,64.3,76.17,4.5,53.48,10,63.86,5,60.42,70.09,Average
+Varshini,STU1233,Male,EEE,2nd Year,1,93.57,62.19,71.15,75.16,1.39,51.26,10,51.31,2,78.13,79.69,Good
+Nivetha,STU1278,Male,Civil,4th Year,0,75.28,71.16,61.06,71.33,3.59,67.21,10,63.09,4,64.86,70.18,Average
+Swathi,STU1265,Female,ECE,4th Year,0,81.39,82.58,81.12,84.93,6.98,60.18,10,74.28,7,72.72,74.98,Average
+Pooja,STU1284,Male,Civil,2nd Year,1,75.2,68.94,56.96,56.95,,41.98,10,67.31,2,66.8,55.84,Pass
+Shreya,STU1208,Male,ECE,3rd Year,1,53.38,51.96,48.74,75.51,4.63,62.3,10,56.89,7,58.7,57.85,Pass
+Akshaya,STU1297,Male,Artificial Intelligence,2nd Year,1,58.5,59.02,58.83,79.95,2.54,56.15,10,51.9,5,52.72,64.95,Pass
+Yamuna,STU1186,Female,EEE,3rd Year,0,79.5,89.95,91.23,77.88,2.44,89.61,10,86.72,7,72.68,88.97,Excellent
+Rithika,STU1285,Female,Artificial Intelligence,4th Year,2,51.71,65.53,69,65,5.22,46.86,10,90.46,4,61.33,72.56,Average
+Bhavya,STU1032,Female,Computer Science,4th Year,1,82.62,68.04,79.39,66.29,0.5,49.88,10,74.48,2,69.37,66.47,Average
+Mithra,STU1267,Female,,2nd Year,0,56.46,69.94,54.57,52.13,4.57,54.97,9,62.76,4,70.76,54.47,Pass
+Sindhu,STU1147,Female,,3rd Year,2,73.44,65.13,58.62,71.38,1.84,52.9,10,66.46,2,64.86,67.32,Average
+Tharani,STU1272,Male,Artificial Intelligence,2nd Year,0,87.83,69.47,71.71,,0.5,30.89,10,76.64,3,69.07,61.94,Pass
+Roshini,STU1085,Male,Information Technology,1st Year,0,94.88,87.38,87.9,94.06,4.86,83.23,10,91.84,6,85.78,89.04,Excellent
+Nithya,STU1223,Male,ECE,1st Year,2,75.83,40.8,44.42,53.3,3.5,72.07,10,40.34,4,65.86,49.94,Fail
+Kowsalya,STU1087,Female,Civil,2nd Year,1,68.75,48.51,58.55,73.84,1.78,50.38,9,51.95,2,64.96,64.06,Pass
+Vignesh,STU1232,Male,ECE,4th Year,0,60.61,54.97,34.96,37.56,5.56,57.78,8,53.3,5,56.42,53.47,Pass
+Sanjay,STU1105,Male,Computer Science,3rd Year,1,86.1,56.09,52.21,63.45,4.59,63.87,9,56.05,5,77.77,66.93,Average
+Arun,STU1155,Female,Civil,3rd Year,0,82.33,,61.49,64.99,0.5,54.48,10,,3,84.04,67.8,Average
+Karthik,STU1010,Female,Artificial Intelligence,3rd Year,3,74.19,53.25,62.51,79.37,4.76,56.31,10,59.81,6,67.76,65.7,Average
+Dinesh,STU1229,Female,Artificial Intelligence,4th Year,0,86.35,71.53,70.95,79.66,4.67,60.6,10,,4,83.53,71.2,Average
+Praveen,STU1148,Male,EEE,2nd Year,2,83.54,52.63,67.54,58.35,5.32,61.12,10,70.57,3,63.54,64.75,Pass
+Suresh,STU1212,,Computer Science,3rd Year,0,93.19,73.29,68.54,75.41,2.81,71.04,10,71.55,6,91.08,84.13,Good
+Rakesh,STU1249,Male,ECE,4th Year,0,73.81,68.88,63.42,71.14,2.23,53.07,10,74.04,6,68.13,66.33,Average
+Rahul,STU1121,Male,Computer Science,4th Year,0,93.47,80.59,64.32,65.28,3.01,68.82,10,73.89,3,86.85,70.49,Average
+Aravind,STU1270,Female,Information Technology,3rd Year,3,72.79,42.03,55.14,60.35,3.55,71.51,10,33.01,6,61.33,52.32,Pass
+Ashwin,STU1031,Female,Civil,3rd Year,0,76.02,66.39,55.69,71.27,4.35,72.7,10,65.51,5,68.58,69.85,Average
+Hari,STU1037,Female,ECE,3rd Year,0,77.93,86.13,78.77,74.93,4.65,59.72,10,75.37,3,78.38,68.28,Average
+Gokul,STU1220,Male,Civil,3rd Year,0,100,82.78,87.42,70.8,4.41,69.58,10,89.12,6,86.58,85.78,Excellent
+Mohan,STU1012,Male,ECE,3rd Year,0,70.7,66.61,45.79,73.46,4.8,70.22,9,54.68,5,63.46,59.08,Pass
+Manoj,STU1059,Female,Artificial Intelligence,3rd Year,0,84.75,68.58,67.14,72.82,5.82,76.43,10,74.9,8,93.84,67.57,Average
+Vishnu,STU1005,Male,ECE,2nd Year,0,95.4,77.93,88.68,76.93,3.33,73.89,10,89.88,5,86.84,77.29,Good
+Surya,STU1300,Female,Computer Science,4th Year,0,83.23,72.54,74.92,80.54,3.37,77.52,10,88.19,4,88.14,78.24,Good
+Ajay,STU1119,Female,Information Technology,2nd Year,2,92.16,65.9,75.44,72.75,5.18,63.25,10,73.73,2,78.88,67.73,Average
+Akash,STU1130,Male,Computer Science,4th Year,0,76.37,70.28,80.03,,4.91,62.23,10,65.53,3,68.92,68.44,Average
+Bharath,STU1058,Female,Computer Science,2nd Year,1,65.6,42.92,55.59,63.79,,62.1,9,65.61,2,77.58,53.13,Pass
+Deepak,STU1083,Female,Computer Science,3rd Year,0,91.41,81.25,,82.87,2.85,51.9,10,73.03,3,79.27,77.3,Good
+Naveen,STU1180,Male,Artificial Intelligence,2nd Year,2,63.67,56.91,55.37,56.52,7.17,55.28,10,60.1,6,63.23,67.43,Average
+Sathish,STU1182,Male,Mechanical,4th Year,3,53.11,44.41,,43.81,3.34,52.27,10,45.06,4,53.24,40.95,Fail
+Saravanan,STU1142,Male,Information Technology,4th Year,1,86.98,80.19,75.44,90.27,2.75,41.69,10,74.43,5,64.56,74.19,Average
+Lokesh,STU1068,Female,Computer Science,3rd Year,0,71.52,65.21,80.14,52.11,5.22,70.96,10,58.48,6,79,66.45,Average
+Rohit,STU1152,Female,Civil,4th Year,0,71.36,75.78,60.46,92.37,0.5,51.2,10,66.23,3,68.41,62.87,Pass
+Vivek,STU1046,Female,Information Technology,4th Year,0,98.07,85.05,88.91,88.46,3.54,86.38,10,96.04,7,100,88.16,Excellent
+Dharun,STU1042,Male,Artificial Intelligence,2nd Year,0,79.64,91.59,83.53,64.97,7.88,60.81,10,100,5,72.33,74.15,Average
+Yashwanth,STU1152,Female,Civil,4th Year,0,71.36,75.78,60.46,92.37,0.5,51.2,10,66.23,3,68.41,62.87,Pass
+Adithya,STU1294,Female,Mechanical,3rd Year,0,,64.83,52.29,58.14,2.45,38.63,10,59.75,1,60.45,59.25,Pass
+Abhishek,STU1167,Male,Mechanical,4th Year,0,81.5,78.77,66.26,97.79,3.95,82.37,10,74.51,5,78.81,86.25,Excellent
+Siddharth,STU1154,Female,Information Technology,3rd Year,0,83.18,86.77,59.81,74.94,1.34,58.28,10,66.02,5,70.71,68.86,Average
+Varun,STU1243,Female,Computer Science,3rd Year,2,82.73,65.5,58.77,57.95,2.5,50.49,10,57.95,4,72.6,63.68,Pass
+Kishore,STU1107,Female,Artificial Intelligence,3rd Year,1,74.61,64.5,61.99,43.92,3.17,58.34,9,75.51,5,69.62,62.46,Pass
+Pranav,STU1188,Female,Mechanical,2nd Year,0,84.73,73.16,86.2,89.13,5.47,61.18,10,78.29,4,78.01,72.96,Average
+Ranjith,STU1179,Female,ECE,2nd Year,0,83.32,73.46,73.12,71.15,2.34,65.58,10,74.6,2,79.79,74.24,Average
+Santhosh,STU1094,Male,Artificial Intelligence,1st Year,0,74.13,64.85,66.62,61,6.18,68.8,10,62.6,6,74.35,70.83,Average
+Muthukumar,STU1266,Female,Information Technology,1st Year,2,79.53,64.5,62.46,74.09,3.61,59.68,10,61.91,4,64.09,57.51,Pass
+Kavin,STU1124,Female,ECE,2nd Year,1,82.49,54.3,57.7,59.9,6.72,60.23,10,65.79,5,66.12,72.17,Average
+Gowtham,STU1249,Male,ECE,4th Year,0,73.81,68.88,63.42,71.14,2.23,53.07,10,74.04,6,68.13,66.33,Average
+Jeevan,STU1168,Male,Civil,2nd Year,0,75.29,63.48,47.05,67.23,5.64,61.24,10,58.44,4,76.32,61.02,Pass
+Karthikeyan,STU1060,Male,Mechanical,4th Year,2,86.58,65.32,67.02,74.57,1.15,57.45,10,68.38,3,80.89,66.7,Average
+Naveena,STU1049,,ECE,2nd Year,1,81.02,59.27,62.72,76.6,0.66,50.98,10,50.99,3,68.08,61.3,Pass
+Aarthi,STU1137,Male,Computer Science,3rd Year,0,93.55,66.26,75.32,95.75,4.5,69.41,10,60.7,5,82.85,59.22,Pass
+Anu,STU1193,Female,EEE,2nd Year,0,91.3,89.15,77,76.56,3.75,63.76,6,83.43,5,75.05,75.91,Good
+Bhavana,STU1161,Female,EEE,4th Year,1,76.69,59.73,61.96,66.17,2.82,61.39,10,69.58,4,73.37,65.95,Average
+Chandrika,STU1289,Female,EEE,3rd Year,0,87.41,75.39,72.32,69.51,5.24,53.94,10,71.11,4,63.38,77.88,Good
+Dharshika,STU1203,Male,Computer Science,3rd Year,0,92.39,69.8,60.71,65.71,3.25,65.47,10,76.2,3,87.57,72.9,Average
+Ishwarya,STU1052,Female,Computer Science,2nd Year,1,66,61.44,59.8,55.62,6.28,84.27,10,81.29,7,73.99,72.84,Average
+Madhumitha,STU1118,Male,Information Technology,4th Year,0,83.17,77.7,93.33,63.18,5.94,65.82,10,78.68,4,67.07,79.89,Good
+Nandita,STU1191,Male,Artificial Intelligence,1st Year,1,57.56,56.23,58.82,70.38,,58.08,9,63.57,3,69.92,55.52,Pass
+Preethi,STU1061,Male,Artificial Intelligence,2nd Year,0,86.59,58.8,61.1,82.99,0.5,52.75,10,61.61,2,63.98,70.97,Average
+Ranjani,STU1071,Other,Civil,2nd Year,1,75.19,59.5,59.67,68.1,4.05,58.22,10,80.48,6,61.23,72.67,Average
+Revathi,STU1219,Male,Mechanical,2nd Year,4,62.39,51.61,49.16,52.84,4.28,59.04,10,49.47,5,51.26,44.83,Fail
+Sakthi,STU1123,,EEE,4th Year,2,73.38,54.77,57.04,57.75,4.23,53.64,9,62.18,5,66.79,57.1,Pass
+Sharmila,STU1021,Male,Computer Science,4th Year,0,82.32,80.21,84.33,77.79,3.39,78.18,10,75.39,5,68.94,71.63,Average
+Soundarya,STU1214,Female,Information Technology,1st Year,1,54.46,42.5,52.11,63.22,5.05,61.41,10,55.39,5,64.85,57.08,Pass
+Thenmozhi,STU1210,Male,Mechanical,2nd Year,2,49.93,54.16,49.69,53.17,4.79,56.29,9,82.93,3,78.15,43.8,Fail
+Usha,STU1011,Male,Mechanical,1st Year,2,77.11,57.23,67.89,59.28,3.98,77.7,9,70.16,4,73.75,59.06,Pass
+Vani,STU1064,Male,Mechanical,4th Year,0,80.43,74.43,63.24,68.63,2.65,60.88,10,63.42,1,66.4,67.01,Average
+Yogitha,STU1069,Male,,2nd Year,0,83.41,73.54,75.48,84.58,5.41,73.35,10,70.03,6,67.32,73.69,Average
+Jayanivethini,STU1241,Male,Mechanical,1st Year,1,80.56,60.27,79.75,78.04,3.9,72.24,10,63.73,4,78.41,68.71,Average
+Jayanti,STU1261,Female,Artificial Intelligence,1st Year,2,95.03,57.21,66.33,84.7,6.23,75.59,10,68.44,3,79.75,69.94,Average
+Vijay,STU1172,Male,EEE,2nd Year,0,72.02,65.47,53.38,48.86,2.76,72.33,10,63.21,3,60.81,63.55,Pass
+Priya,STU1248,Male,EEE,4th Year,1,60.04,50.37,52.89,70.83,3.76,45.09,10,55.76,5,50.24,51.75,Pass
+Kavya,STU1218,Male,EEE,3rd Year,1,,68.96,55.38,60.06,4.1,57.46,10,73.15,5,73.7,66.96,Average
+Divya,STU1017,Male,ECE,2nd Year,0,85.97,68.58,64.41,56.71,1.41,65.33,10,67.46,3,83.29,61.81,Pass
+Harini,STU1073,Male,ECE,3rd Year,1,82.09,66.33,68.91,72.12,2.62,57.92,10,74.27,4,69.09,66.14,Average
+Keerthana,STU1128,,EEE,1st Year,0,97.68,84.48,85.22,82.12,2.95,74.44,10,91.64,3,86.91,87.07,Excellent
+Nandhini,STU1109,Male,Computer Science,2nd Year,3,63.79,38.7,51.01,55.75,2.68,53.28,7,50.88,3,69.6,54.64,Pass
+Swetha,STU1033,Female,Artificial Intelligence,2nd Year,0,70.56,62.75,63.08,61.44,2.43,60.08,10,82.99,2,80.66,55.5,Pass
+Aishwarya,STU1125,Male,Mechanical,1st Year,0,89.33,78.4,70.32,77.34,4.98,68.12,10,80.96,6,82.12,86.38,Excellent
+Pavithra,STU1183,Female,ECE,1st Year,1,77.9,47.75,57.83,63,3.91,62.33,10,63.65,3,62.96,68.35,Average
+Dharani,STU1001,Male,Information Technology,3rd Year,3,72.82,,47.61,60.71,1.13,62.09,10,67.53,2,66.05,60.86,Pass
+Sangeetha,STU1099,Female,Artificial Intelligence,1st Year,0,68.74,63.07,57.13,60.51,2.45,51.62,10,47.34,4,57.49,58.92,Pass
+Anitha,STU1279,Male,Civil,4th Year,0,93.34,87.54,78.48,76.53,3.85,60.88,10,58.1,6,79.33,77.97,Good
+Deepika,STU1093,Male,ECE,3rd Year,0,64.77,65.53,58.34,,1.28,54.34,9,62.03,2,61.24,56.58,Pass
+Monisha,STU1039,Male,Mechanical,1st Year,1,79.76,76.36,77.65,77.77,5.67,68.09,10,82.77,7,79.25,84.99,Good
+Sandhya,STU1133,Male,Mechanical,1st Year,0,67.06,63.42,55.29,60.33,1.03,38.72,10,61.43,4,62.46,69.37,Average
+Abinaya,STU1096,Male,ECE,1st Year,1,82.78,63.47,58.51,74.28,1.89,57.62,10,72.29,4,77.65,64.89,Pass
+Shalini,STU1143,Male,Information Technology,4th Year,1,,50.72,54.84,56.08,4.15,77.4,10,63.6,5,73.53,57.77,Pass
+Ramya,STU1098,Male,Mechanical,4th Year,0,98.45,87.77,91.92,80.19,4.18,82.14,10,100,4,79.34,87.06,Excellent
+Vaishnavi,STU1036,Male,Computer Science,1st Year,0,88,92.65,91.34,83.79,1.81,59.98,10,83.66,5,79.45,71.29,Average
+Lavanya,STU1009,Male,ECE,4th Year,1,85.36,,74.32,83.34,3.86,51.23,10,85.4,4,69.05,71.73,Average
+Dhivya,STU1084,Male,ECE,2nd Year,2,61.36,69.13,70.76,53.83,0.7,49.27,9,83.15,2,59.88,60.81,Pass
+Meena,STU1164,Male,Information Technology,4th Year,1,53.04,65.41,55.75,59.56,0.5,48.33,10,66.28,4,55.19,48.68,Fail
+Mahalakshmi,STU1086,Male,Computer Science,4th Year,0,92.31,85.47,67.63,80.23,2.18,51.06,10,86.93,5,73.39,70.18,Average
+Sowmya,STU1114,Female,Artificial Intelligence,4th Year,0,90.4,85.02,82.88,85.67,3.52,68.86,10,100,4,66.9,92.49,Excellent
+Sneha,STU1215,Male,Artificial Intelligence,4th Year,0,78.63,77.94,,52.73,6.06,55.63,10,85.3,6,64.45,63.9,Pass
+Srinithi,STU1014,Female,Artificial Intelligence,3rd Year,0,88.9,74.31,68.92,59.86,4.24,69.41,10,67.62,2,80.89,72.62,Average
+Janani,STU1163,Male,Information Technology,4th Year,1,60.29,61.29,66.25,65.43,4.43,65.35,10,,3,75.75,63.36,Pass
+Karthika,STU1146,Male,Computer Science,3rd Year,0,75.84,63.1,74.41,72.04,6.24,80.05,10,,7,61.96,72.77,Average
+Anjali,STU1222,Male,EEE,1st Year,0,66.06,70.54,52.32,60.27,1.95,41.57,10,71.09,2,51.2,57.74,Pass
+Gayathri,STU1275,Male,Civil,3rd Year,0,100,73.36,63.22,75.83,4.29,62.87,10,86.55,4,89.55,82.63,Good
+Reshma,STU1230,Female,Information Technology,1st Year,3,75.74,46.93,66.69,73.38,0.5,51.62,10,39.2,4,60.12,63.3,Pass
+Varshini,STU1034,Male,Artificial Intelligence,4th Year,1,70.76,45.68,66.48,78.26,5.96,44.19,10,63.46,8,69.25,65.41,Average
+Nivetha,STU1022,Female,ECE,2nd Year,0,86.95,67.44,65.31,90.26,0.59,61.96,10,53.09,3,76.09,73.16,Average
+Swathi,STU1196,Male,Information Technology,4th Year,1,70.55,59.84,72.19,71.65,3.73,61.31,10,62.17,5,76.67,71.12,Average
+Pooja,STU1216,Male,Computer Science,1st Year,2,63.79,62.66,56.99,68.66,1.49,52.35,10,50.76,3,55.37,49.81,Fail
+Shreya,STU1292,Male,Computer Science,1st Year,0,92.65,83.25,67.4,87.83,4.15,72.65,10,75.15,6,77.05,78.7,Good
+Akshaya,STU1070,Female,ECE,1st Year,1,79.14,58.53,58.69,50.42,0.5,50.76,10,71.26,4,77.91,61.62,Pass
+Yamuna,STU1090,Female,Computer Science,1st Year,0,84.38,82.34,63.21,75.83,2.93,74.24,10,71.27,2,61.98,77.19,Good
+Rithika,STU1003,Male,Mechanical,1st Year,0,81.74,80.36,57.74,70.82,3.84,75.94,10,82.73,5,74.24,70.53,Average
+Bhavya,STU1020,Male,ECE,1st Year,1,,58.3,57.51,52.07,3.08,58.26,10,59.34,3,71.98,61.02,Pass
+Mithra,STU1068,Female,Computer Science,3rd Year,0,71.52,65.21,80.14,52.11,5.22,70.96,10,58.48,6,79,66.45,Average
+Sindhu,STU1189,Female,Information Technology,1st Year,1,82.13,67.24,71.84,61.88,8.43,52.61,9,78.58,7,78.79,82.71,Good
+Tharani,STU1299,Male,EEE,1st Year,0,83.93,66.83,,86.45,3.91,69.69,10,64.02,6,94.05,66.95,Average
+Roshini,STU1253,Male,Computer Science,1st Year,2,85.99,68.59,68.5,66.92,1.84,52,10,68.07,3,90.21,64.74,Pass
+Nithya,STU1044,Male,Information Technology,1st Year,0,64,73.56,54.84,57.15,2.87,40.06,9,64.75,5,45.48,49.79,Fail
+Kowsalya,STU1067,Male,Artificial Intelligence,2nd Year,0,85.79,82.56,72.64,63.31,,70.33,10,78.26,6,73.66,81.4,Good
+Vignesh,STU1162,Male,EEE,2nd Year,0,67.7,60.03,63.96,,2.04,53.69,10,,4,65.45,68.47,Average
+Sanjay,STU1213,Male,,3rd Year,1,95.52,63.89,69.65,,4.83,86,10,74.35,8,82.9,86.41,Excellent
+Arun,STU1165,Female,Artificial Intelligence,1st Year,0,75.68,69.27,54.87,63.69,1.55,53.11,10,74.6,6,76.44,63.29,Pass
+Karthik,STU1195,Female,Artificial Intelligence,3rd Year,1,67.25,73.14,59.96,53.77,4.61,64.83,10,,6,67.14,66.75,Average
+Dinesh,STU1015,Male,Civil,3rd Year,0,83.8,72.36,77.2,82.96,2.14,51.91,10,63.57,4,75.33,75.55,Good
+Praveen,STU1252,Male,Information Technology,4th Year,0,99.34,76.49,72.55,,2.38,76.01,10,65.42,5,95.18,82.81,Good
+Suresh,STU1140,Female,EEE,1st Year,1,73.68,67.54,68.43,61.75,2.94,48.6,10,62.14,4,63.84,64.23,Pass
+Rakesh,STU1076,Male,Information Technology,4th Year,0,86.31,79.53,80.18,76.12,2.36,56.44,10,78.08,3,61.2,76.02,Good
+Rahul,STU1080,Female,Civil,2nd Year,1,82.99,64.04,64.09,66.46,5.51,79.58,10,72.69,4,72.33,75.6,Good
+Aravind,STU1023,Male,ECE,4th Year,1,45.3,53.7,57.97,75.86,5.37,60.12,10,53.63,2,59.3,56.66,Pass
+Ashwin,STU1059,Female,Artificial Intelligence,3rd Year,0,84.75,68.58,67.14,72.82,5.82,76.43,10,74.9,8,93.84,67.57,Average
+Hari,STU1102,Male,Civil,3rd Year,0,77.73,94.75,75.98,67.71,6.03,79.12,10,97.88,6,83.08,86.13,Excellent
+Gokul,STU1074,Other,Computer Science,1st Year,0,78.87,86.35,73.37,67.34,3.91,49.88,10,86.98,3,77.98,75.21,Good
+Mohan,STU1260,Male,Information Technology,3rd Year,1,81.85,51.88,59.47,64.87,2.71,72.85,10,50.04,4,76.49,53.42,Pass
+Manoj,STU1160,Female,Information Technology,3rd Year,0,79.96,65.45,69.32,76.06,5.32,66.73,10,69.94,4,70.62,73.75,Average
+Vishnu,STU1217,Female,Civil,1st Year,2,61.78,51.03,58.52,70.89,2.3,48.71,10,57.08,2,60.16,59.63,Pass
+Surya,STU1227,Male,Information Technology,1st Year,0,80.77,78.02,82.43,,3.45,70.09,10,82.28,4,78.05,72.1,Average
+Ajay,STU1050,Male,Artificial Intelligence,3rd Year,0,76.05,64.82,69.75,62.83,2.63,49.22,10,77.56,5,52.37,57.41,Pass
+Akash,STU1153,Male,ECE,3rd Year,0,73.28,66.67,68.39,61.41,4.09,71.48,9,75.66,5,76.6,69.27,Average
+Bharath,STU1138,Female,Computer Science,4th Year,1,64.79,62.47,49.35,61.73,5.08,59.77,10,73.05,6,76.85,53.3,Pass
+Deepak,STU1004,Male,ECE,1st Year,0,77.84,61.41,70.65,78.62,4.94,77.76,10,52.9,7,76.43,73.39,Average
+Naveen,STU1246,Male,Mechanical,4th Year,1,83.09,68.74,67.13,80.24,4.15,78.55,10,79.77,5,87.88,76.39,Good
+Sathish,STU1032,Female,Computer Science,4th Year,1,82.62,68.04,79.39,66.29,0.5,49.88,10,74.48,2,69.37,66.47,Average
+Saravanan,STU1149,Male,ECE,4th Year,1,77.73,61.32,58.61,65.01,2.35,76.5,10,66.06,5,62.05,64.78,Pass
+Lokesh,STU1048,Male,Information Technology,3rd Year,0,80.23,76.17,65.5,57.52,2.13,72.78,10,73.63,3,80.7,67.7,Average
+Rohit,STU1021,Male,Computer Science,4th Year,0,82.32,80.21,84.33,77.79,3.39,78.18,10,75.39,5,68.94,71.63,Average
+Vivek,STU1202,Female,Computer Science,2nd Year,0,74.54,81.01,79.73,88.94,0.73,47.91,10,83.16,5,80.73,69.86,Average
+Dharun,STU1251,Female,Computer Science,1st Year,3,,42.48,48.18,63.1,3.46,54.13,10,47.2,6,67.93,57.62,Pass
+Yashwanth,STU1018,Female,Computer Science,4th Year,0,63.05,60.78,62.49,51.86,2.66,54.74,8,56.86,5,59.53,57.82,Pass
+Adithya,STU1113,Female,ECE,2nd Year,1,63.97,65.66,67.64,67.42,2.76,52.46,10,58.03,4,67.59,63.07,Pass
+Abhishek,STU1026,Female,Computer Science,2nd Year,1,57.61,71.7,78.57,69.12,3.14,46,10,84.67,4,77.36,65.62,Average
+Siddharth,STU1295,Male,Mechanical,2nd Year,0,86.67,98,83.11,79.57,2.94,53.5,10,78.83,1,62.22,81.57,Good
+Varun,STU1112,Male,ECE,4th Year,0,67.75,66.92,53.75,56.16,6.78,49.33,10,63.23,5,69.17,63.54,Pass
+Kishore,STU1136,Male,ECE,2nd Year,0,90.88,75.83,76.26,,5.84,75.91,10,69.47,5,85.48,83.2,Good
+Pranav,STU1097,Male,EEE,3rd Year,0,86.52,75.66,77.53,80.68,0.5,42.83,10,87.16,1,73.02,72.22,Average
+Ranjith,STU1264,Female,Artificial Intelligence,3rd Year,1,76.45,,60.83,70.26,3.09,50.16,10,69.19,1,75.02,63.96,Pass
+Santhosh,STU1250,Female,Mechanical,2nd Year,0,90.63,70.36,69.83,73.78,6.47,70.6,10,65.02,6,83.24,78.65,Good
+Muthukumar,STU1028,Female,EEE,1st Year,1,100,65.02,77.77,69.38,3.63,75.94,10,72.75,4,75.5,75.13,Good
+Kavin,STU1206,Male,ECE,2nd Year,0,76.55,89.93,85.66,80.53,2.12,62.07,10,85.85,4,78.19,78.94,Good
+Gowtham,STU1131,,Computer Science,1st Year,0,83.34,79.55,93.62,69.36,5.36,62.93,10,85.57,5,79,85.24,Excellent
+Jeevan+KA309:R311,STU1029,Female,Computer Science,2nd Year,0,75.13,63.62,76.74,65.57,9.2,72.83,10,60.35,6,60.38,68.64,Average
+Karthikeyan,STU1117,Female,Computer Science,4th Year,1,73.18,66.4,67.82,72.79,6.18,57.72,10,79.43,6,65.45,61.71,Pass
+Naveena,STU1030,Male,Computer Science,3rd Year,2,60.91,54.06,59.3,50.9,5.08,67.91,7,64.32,6,70.48,54.67,Pass
+Aarthi,STU1078,Female,Artificial Intelligence,1st Year,0,80.58,73.5,65.92,69.66,6.93,54.42,9,69.6,6,74.22,73.17,Average
+Anu,STU1283,Male,Computer Science,1st Year,1,77.45,60.16,67.62,66.99,3.52,72.59,10,62.13,6,81.04,54.75,Pass
+Bhavana,STU1258,Female,Artificial Intelligence,1st Year,0,82.77,78.08,98,87.45,5.41,56.13,10,74.92,7,63.71,85.17,Excellent
+Nirajana,STU1158,Female,Computer Science,3rd Year,0,97.53,87.48,78.98,85.73,0.5,75.16,10,76.33,1,83.97,81.93,Good
+Lavanya,STU1009,Male,ECE,4th Year,1,85.36,,74.32,83.34,3.86,51.23,10,85.4,4,69.05,71.73,Average
+Dhivya,STU1084,Male,ECE,2nd Year,2,61.36,69.13,70.76,53.83,0.7,49.27,9,83.15,2,59.88,60.81,Pass
+Pavithra,STU1194,Male,Computer Science,2nd Year,2,70.51,47.12,43.06,64.94,1.63,49.57,10,48.22,4,71.19,56.25,Pass
+Dharani,STU1296,Female,Computer Science,1st Year,0,71.42,76.12,55.1,67.44,2.86,73.74,10,66.4,2,67.1,74.99,Average
+Sangeetha,STU1150,Female,Information Technology,4th Year,2,85.32,54.21,68.5,63.85,3.72,77,10,69.55,4,72.54,63.28,Pass
+Anitha,STU1120,,Mechanical,3rd Year,2,82.31,71.1,67.82,90.8,3.21,70.36,10,62.98,7,68.17,68.1,Average
+Deepika,STU1192,Male,Artificial Intelligence,1st Year,2,90.25,72.58,56.86,79.82,7.62,64.97,10,70.11,5,74,80.61,Good
+Monisha,STU1082,Male,Information Technology,4th Year,0,86.67,58.02,63.19,76.51,4.25,72.14,10,66.15,5,82.22,69.22,Average
+Sandhya,STU1256,Female,Information Technology,3rd Year,0,99.88,98,66.43,81.19,1.06,77.51,10,85.35,4,94.36,80.76,Good
+Abinaya,STU1257,Male,Civil,1st Year,1,87.2,67.14,68.4,73.17,4.32,68.38,10,66.68,8,85.57,66.4,Average
+Shalini,STU1053,Male,Computer Science,4th Year,1,51.46,66.01,69.76,67.24,3.29,31.06,10,76.33,2,60.54,58.07,Pass
+Ramya,STU1176,Male,Computer Science,4th Year,0,100,75.08,79.94,79.07,4.32,68.12,10,78.7,4,97.6,77.24,Good
+Vaishnavi,STU1055,Male,Computer Science,2nd Year,2,40,35.11,59.23,69.1,6.17,34.84,10,41.49,6,42.73,56.09,Pass
+Lavanya,STU1035,Female,Civil,4th Year,0,92.17,79.27,50.95,61.36,3.22,68.21,10,87.58,3,95.84,68.01,Average
+Dhivya,STU1205,Male,Computer Science,4th Year,0,73.89,62.69,49.37,56.02,6.33,62.92,10,52.88,3,71.5,59.11,Pass
+Meena,STU1111,Male,Artificial Intelligence,1st Year,0,71.09,80.34,67.51,80.56,5.99,72.19,10,75.62,8,68.4,82.19,Good
+Mahalakshmi,STU1259,,Mechanical,4th Year,0,87.58,80.54,73.17,58.89,3.87,76.48,10,73.65,7,63.3,75.16,Good
+Sowmya,STU1291,Male,Mechanical,2nd Year,0,82.08,66.4,66.92,53.94,1.79,54.01,10,63.84,4,74.41,59.01,Pass
+Sneha,STU1156,Female,Information Technology,3rd Year,0,81.5,65.24,64.48,58.51,5.76,57.83,10,78.72,5,66.64,70.83,Average
+Srinithi,STU1274,Male,Computer Science,4th Year,2,61.83,65.13,68.6,76.13,5.09,72.28,10,74.13,5,63.48,64.09,Pass
+Janani,STU1276,Female,ECE,4th Year,0,94.4,66.24,62.59,64.74,4.92,80.9,10,73.57,6,97.34,72.62,Average
+Karthika,STU1040,Male,ECE,3rd Year,2,72.8,57.5,69.22,60.26,3.69,54.22,10,66.18,5,69.9,64.04,Pass
