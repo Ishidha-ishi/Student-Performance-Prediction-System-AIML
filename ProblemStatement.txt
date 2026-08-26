@@ -68,9 +68,9 @@ Another important objective is to identify students who are likely to perform po
 The system can help teachers understand individual student performance and provide personalized guidance. For example, if a student has low attendance and poor assignment performance, the system may predict a higher risk of poor academic performance. Teachers can then provide additional classes, study materials, mentoring, or other appropriate support.
 
 5.Workflow:
-                            ┌──────────────────────┐
-             │   Student Dataset     │
-             │     Dataset.csv       │
+             ┌──────────────────────┐
+             │   Student Dataset    │
+             │     Dataset.csv      │
              └──────────┬───────────┘
                         ↓
              ┌──────────────────────┐
